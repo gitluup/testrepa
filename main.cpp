@@ -7,5 +7,6 @@ int main()
 	std::cout << "Hello world!" << std::endl;
 	int b = 0;
 	++b;
+
 	return 0;
 }
