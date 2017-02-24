@@ -10,5 +10,6 @@ int main()
 	++b;
 
 	std::cout << "Hello from gitluup!" << std::endl;
+	a += 3;
 	return 1;
 }
