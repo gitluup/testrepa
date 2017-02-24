@@ -8,5 +8,6 @@ int main()
 	int b = 0;
 	++b;
 
-	return 0;
+	std::cout << "Hello from gitluup!" << std::endl;
+	return 1;
 }
