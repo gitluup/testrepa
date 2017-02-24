@@ -9,6 +9,7 @@ int main()
 	int b = 0;
 	++b;
 
+	a = 10;
 	std::cout << "Hello from gitluup!" << std::endl;
 	a += 3;
 	return 1;
