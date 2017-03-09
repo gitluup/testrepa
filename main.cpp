@@ -2,6 +2,5 @@
 
 int main()
 {
-	//local
-	return EXIT_SUCCESS;
+	return EXIT_SUCCESS; //success
 }
