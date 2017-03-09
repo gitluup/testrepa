@@ -2,6 +2,6 @@
 
 int main()
 {
-	int b = 123;
-	return 13;
+	int b = 123123;
+	return 1313;
 }
