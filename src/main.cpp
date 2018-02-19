@@ -1,7 +1,8 @@
 #include <iostream>
 
-#include "config.h"
+#include "config/config.h"
 #include "calc.h"
+
 
 
 int main()
@@ -12,7 +13,8 @@ int main()
 
 	Calc calc;
 
-	std::cout << "2 + 5 = " << calc.Add(2, 5) << std::endl;
+	//std::cout << "6 + 7 = " << addadd(6, 7) << std::endl;
+	std::cout << "5 + 8 = " << calc.Add(5, 8) << std::endl;
 
 	return 0;
 }
