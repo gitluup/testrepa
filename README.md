@@ -1,2 +1,3 @@
 # testrepa
-blablabla
+Test CMake project
+
