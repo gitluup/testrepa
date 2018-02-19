@@ -9,7 +9,7 @@ int main()
 {
 	std::cout << "tutorial version " << TUTORIAL_VERSION_MAJOR << "."
 		<< TUTORIAL_VERSION_MINOR << std::endl;
-	std::cout << "hello world ***" << std::endl;
+	std::cout << "hello world *** VAR = " << VAR << std::endl;
 
 	Calc calc;
 

@@ -3,10 +3,10 @@
 #include "calc.h"
 
 
-double addadd(double a, double b)
+/* double addadd(double a, double b)
 {
 	return a + b;
-}
+}*/
 
 
 Calc::Calc()

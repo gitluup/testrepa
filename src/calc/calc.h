@@ -1,6 +1,6 @@
 #pragma once
 
-__declspec(dllexport) double addadd(double a, double b);
+// __declspec(dllexport) double addadd(double a, double b);
 
 
 class Calc
